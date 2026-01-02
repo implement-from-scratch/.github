@@ -1,8 +1,10 @@
 # Implement From Scratch
 
+![Logo](./assets/logo.png)
+
 ## Overview
 
-Implement From Scratch is a dedicated engineering organization focused on the bottom-up reconstruction of core software infrastructure. Our mission is to dismantle the "black box" of modern computing by providing decent-quality, educational implementations of complex systems. We prioritize deep technical understanding over high-level abstraction, offering a laboratory for developers to master systems programming through direct implementation.
+This is a dedicated engineering organization focused on the bottom-up reconstruction of core software infrastructure. Our mission is to dismantle the "black box" of modern computing by providing decent-quality, educational implementations of complex systems. We prioritize deep technical understanding over high-level abstraction, offering a laboratory for developers to master systems programming through direct implementation.
 
 ## Technical Scope
 
