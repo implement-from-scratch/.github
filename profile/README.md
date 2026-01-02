@@ -2,7 +2,7 @@
 
 ## Overview
 
-Implement From Scratch is a dedicated engineering organization focused on the bottom-up reconstruction of core software infrastructure. Our mission is to dismantle the "black box" of modern computing by providing production-quality, educational implementations of complex systems. We prioritize deep technical understanding over high-level abstraction, offering a laboratory for developers to master systems programming through direct implementation.
+Implement From Scratch is a dedicated engineering organization focused on the bottom-up reconstruction of core software infrastructure. Our mission is to dismantle the "black box" of modern computing by providing decent-quality, educational implementations of complex systems. We prioritize deep technical understanding over high-level abstraction, offering a laboratory for developers to master systems programming through direct implementation.
 
 ## Technical Scope
 
@@ -12,6 +12,10 @@ Our curriculum covers the entire stack of systems engineering, categorized into 
 2. Data Systems: In-memory datastores, relational databases, and transactional storage engines.
 3. Networking: Low-level protocol stacks, asynchronous I/O, and distributed systems consensus.
 4. Tooling: Compilers, virtual machines, interpreters, and performance profilers.
+
+## Out of Scope
+1. None of the implementation are intended to be used for production or EVER created keeping production in mind.
+2. These are educational content that can be used by anyone to learn their way with system by doing things.
 
 ## Language Strategy
 
